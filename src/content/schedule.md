@@ -288,7 +288,7 @@ slug = "schedule"
     <tr>
   <td>Thursday 9 Apr</td>
   <td colspan=2>"Midterm"</td>
-  <td>8</td>
+  <td><a href="/blogs/class23/">Class 23</a> (8)</td>
   </tr>
   <tr>
   <td>Tuesday 14 Apr</td>
