@@ -13,7 +13,7 @@ author = "Team 8"
 
 In the beginning of the class, TA Bijan Boroumand thanked all the students for their hard work this semester and for their participation in discussions! 
 
-<center><img src="/images/Class23/White_ChristmasPic1.jpg" width=50% alt="Source: https://tvobsessive.com/2018/03/26/black-mirror-white-christmas/"></img>  
+<center><img src="/images/class23/White_ChristmasPic1.jpg" width=50% alt="Source: https://tvobsessive.com/2018/03/26/black-mirror-white-christmas/"></img>  
 </center>
 
  For the remainder of the class period and for our midterm, we watched the Black Mirror episode “White Christmas” and were assigned to write a post-class reflection on it. 
@@ -23,7 +23,7 @@ In the beginning of the class, TA Bijan Boroumand thanked all the students for t
  Matt had to quit the hobby after one of his clients was involved in a murder-suicide with a woman while Matt and the rest of the men in the group were live-streaming it amongst themselves, so they were effectively all witnesses. Matt destroyed all his streaming equipment and attempted to go back to bed, but his wife caught him and “blocked” him, taking custody of his young daughter and kicking him out of the house. 
 
 
-<center><img src="/images/Class23/White_ChristmasPic2.jpg" width=50% alt="Source:https://www.youtube.com/watch?v=wm3RJE3f58s"></img>  
+<center><img src="/images/class23/White_ChristmasPic2.jpg" width=50% alt="Source:https://www.youtube.com/watch?v=wm3RJE3f58s"></img>  
 </center>
 
 Matt and Joe return to the kitchen, and as Matt tries to connect with him, he encourages Joe to share his story. Though reluctant at first, Joe eventually agrees. 
@@ -34,7 +34,7 @@ The next morning, filled with regret, Joe intends to apologize, but she has alre
 
 Once again, we are brought back to the kitchen scene between Matt and Joe. 
 
-<center><img src="/images/Class23/White_ChristmasPic3.jpg" width=50% alt="Source:https://en.wikipedia.org/wiki/White_Christmas_%28Black_Mirror%29"></img>  
+<center><img src="/images/class23/White_ChristmasPic3.jpg" width=50% alt="Source:https://en.wikipedia.org/wiki/White_Christmas_%28Black_Mirror%29"></img>  
 </center>
 
 Matt offers another story about the job he pursued after his divorce. We’re brought into a scene where a woman undergoes a mysterious surgery, though at first it’s unclear what it’s for. Later, we learn that a chip is implanted to study how her brain functions over the course of a week. After the chip is removed, the data is used to create a digital clone of her consciousness, which is placed into a “pod” that controls her smart home. This pod version can manage her daily routine. The pod can prep her toast and even wake her up gently by raising the blinds. However, the system begins to feel unsettling because this digital version of her appears to be sentient. At first, it doesn’t understand that it isn’t the original person even though Matt keeps reassuring the pod that it is simply made of code. 
