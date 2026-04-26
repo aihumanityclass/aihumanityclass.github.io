@@ -46,7 +46,8 @@ The consensus on the QuitGPT movement seemed to be a sense of underwhelm. Some s
 
 [**Slides [PDF]**](https://www.dropbox.com/scl/fi/wyx63tv5xlcieobtb3ko9/cs4501ha-s26-class16.pdf?rlkey=vpkdhfjswva5xzlhxxw09udb4&dl=0)
 
-Professor Evans discussed a little bit about doomerism versus optimism. He mentions that there were a lot of doomsday attitudes in class at the beginning of the semester since many people seemed afraid of AI. As we progressed through the semester, however, we started exploring the pros and cons of AI with more critical thinking and at a neutral (and hopefully more optimistic!) perspective. The QuitGPT article, which we discussed earlier, is a good example of a topic that can be seen as fear-mongering, which we were able to discuss critically and come to a stronger and likely more neutral understanding of AI's involvement in politics, and the now shifting podium of AI models/companies(Claude increasing in use and threatening GPT's throne).
+
+Professor Evans discussed doomerism versus optimism. He mentions that there seemed to be many doomerism attitudes in class at the beginning of the semester and fearfulness about impact of the development of AI. As we went into this semester, we started exploring the pros and cons of AI with more critical thinking and a balanced (and hopefully more optimistic!) perspective.
 
 <center><img src="/images/Class16Blogs/paul-r-ehrlich-hero-image-photo-by-linda-a-cicero-stanford-university.jpg" width=50% alt="Paul Ehrlich"></img>  
 
@@ -55,7 +56,7 @@ Professor Evans discussed a little bit about doomerism versus optimism. He menti
 
 Paul R. Ehrlich is one of the most famous advocates of doomerism, who died recently at the age of 93. 
 
-In his best-selling 1968 book, [_The Population Bomb_](https://archive.org/details/populationbom00ehrl), Ehrlich forecasted global famines where millions would die, writing that "The battle to feed all of humanity is over. In the 1970s and 80s, hundreds of millions will starve to death" and advocating for authoritarian measures to control population. Though this book made him a leader in environmental movements back then, his unfulfilled predictions and stance brought him a lot of criticism.
+In his best-selling 1968 book, [_The Population Bomb_](https://archive.org/details/populationbom00ehrl), Ehrlich forecasted global famines where millions would die, writing that "The battle to feed all of humanity is over. In the 1970s and 1980s hundreds of millions of people will starve to death". Ehrlich advocated for authoritarian measures to control population. Though this book made him a leader in environmental movements back then, his unfulfilled predictions and stance brought him a lot of criticism.
 
 <center><img src="/images/Class16Blogs/deaths-from-famines-by-decade.png" width=80% alt=""></img>  
 
@@ -64,9 +65,9 @@ In his best-selling 1968 book, [_The Population Bomb_](https://archive.org/detai
 
 His predictions proved to be spectacularly wrong. 
 
-The Green Revolution's advances, such as introducing HYV(High-yielding variety) seeds, new irrigation systems, synthetic fertilizers, and pesticides in the 1940s-60s, significantly improved agriculture and decreasing famined based deaths by a huge margin. There was only one significant event that occurred, which aligned with the book's prediction, however. Mao Zedong, a Chinese writer and chairman of the Communist Party, introduced his "Great Leap Forward", a radical campaign aimed at the rapid industrialization of agrarian China, which significantly reduced agricultural output in favor of steel production, causing the death of 15-55 million people by starvation. 
+The Green Revolution advances in agriculture caused deaths from famines to go down.  The Green Revolution's advances, such as introducing HYV(High-yielding variety) seeds, new irrigation systems, synthetic fertilizers, and pesticides in the 1940s-60s, significantly improved agriculture and decreasing famined based deaths by a huge margin. 
 
-Despite his prediction about global starvation not coming to fruition, Ehrlich was still heavily influential. For example, China adopted "The One Child Policy" largely based on his theories on population management. Ehrlich also proposed research into prenatal sex determination (gender selection) as a population control measure, arguing that if parents could guarantee the gender of their child, they would be less incentivised to have more children in the pursuit of a son. This would cull the population in two ways: reduce the number of children per household, and create a balance between the genders, leading to reduced reproduction partners.
+Starvation went up in the 1970s mostly due to Mao Zedong's Great Leap Forward, which killed 15-55 million deaths by starvation. The One Child Policy was introduced later in China, which was largely based on Ehrlich's theories. Paul Ehrlich also proposed research into prenatal sex determination (gender selection) as a population control measure, arguing that if parents could guarantee a male child first, they would not continue having more children in pursuit of a son. 
 
 **Doomerism is dangerous and defeatist. We should be more optimistic.**
 
