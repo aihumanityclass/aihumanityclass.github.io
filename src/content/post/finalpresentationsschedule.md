@@ -14,7 +14,7 @@ author = "David Evans"
 ## Tuesday, 5 May (Rice 414)
 
 **Amber**, Tuesday 5 May 8:15am Rice 414  
-**Dahlia*8, Tuesday 5 May 9:00am Rice 414  
+**Dahlia**, Tuesday 5 May 9:00am Rice 414  
 **Indigo**, Tuesday 5 May 9:45am Rice 414  
 **Garnet**, Tuesday 5 May 10:30am Rice 414 
 
