@@ -19,13 +19,13 @@ As far as the Mid-Course Survey results, 46 out of the 60 students in the class 
 
 Prof. Evans clarified the expectations for discussion groups, which is not meant to be a strict assignment graded on a weekly basis, but an authentic, organic source of discussion on the readings and class materials. However, it is important to note, we are not being graded on any solidly defined criteria to encourage these discussions. Prof. Evans also shared responses on the slides from students about their feelings on their online discussion groups and the in-class seating arrangements. Some people feel the class has been feeling a bit sparse, but the majority would like to continue sitting in their table teams. Professor Evans will begin rearranging tables at the start of class so that groups are not seated at “small” tables. 
 
-Prof. Evans encouraged teams leading classes to be more creative and to think of alternative structures that may work better than the typical slides-and-discussion-questions format all teams up to this point have followed. He appreciated the reminder and request to enforce the policy that laptops should only be open for reasons that contributed to the class. This means that if a laptop is open, students should expect to be asked to share what is on their screen with the class. We will occasionally have five minutes at the end of each class reserved for project teams to briefly meet, but also note that the classroom is available and teams can use this time and space to coordinate before class. Based pon other requests and a sense of how the class is going, the promised midterm will not be a formal test, but should be a worthwhile class instead.
+Prof. Evans encouraged teams leading classes to be more creative and to think of alternative structures that may work better than the typical slides-and-discussion-questions format all teams up to this point have followed. He appreciated the reminder and request to enforce the policy that laptops should only be open for reasons that contributed to the class. This means that if a laptop is open, students should expect to be asked to share what is on their screen with the class. We will occasionally have five minutes at the end of each class reserved for project teams to briefly meet, but also note that the classroom is available and teams can use this time and space to coordinate before class. Based upon other requests and a sense of how the class is going, the promised midterm will not be a formal test, but should be a worthwhile class instead.
 
 Expectations for upcoming News and Lead times have been updated, see the [Class 14 Post](/class14/).
 
 Evans also shared a meta talk on presenting, emphasizing that slides should not contain all the information so that the presentation itself remains important. Overall, the expectation is to prepare earlier, seek feedback, be more creative, and follow improved presentation guidelines.
 
-Professor Evans discussed strategies for giving effective presentations, emphasizing that talks should _tell a story_ rather than simply presenting _lists of bullet points_. While lists are occaionallys apropriate, the goal should be to avoid relying heavily on bullets. He referenced a story from Patrick Henry Wilson, in which a student asked for feedback on their slides and Wilson responded, “Too many slides, too many words,” without even seeing the presentation and explain that this is always the case.
+Professor Evans discussed strategies for giving effective presentations, emphasizing that talks should _tell a story_ rather than simply presenting _lists of bullet points_. While lists are occasionally appropriate, the goal should be to avoid relying heavily on bullets. He referenced a story from Patrick Henry Wilson, in which a student asked for feedback on their slides and Wilson responded, “Too many slides, too many words,” without even seeing the presentation and explained that this is always the case.
 
 Evans also stressed the importance of not reading directly from slides during presentations. If presenters need to read a quote, they should read it from paper rather than from their phone. 
 
@@ -52,15 +52,15 @@ Figure 1: Pulled from class poll
 
 The presentation introduced key legal principles from International Humanitarian Law relevant to autonomous weapons, including the ability to distinguish civilians from combatants, the principle of proportionality in attacks, and the issue of accountability for the use of force. The team also summarized arguments for limiting the autonomy of AI-enabled weapons, including concerns about false positives, automation bias among human operators, and the difficulty of assigning responsibility when accountability becomes diffused across many actors.
 
-Team 4 continued their presentation on autonomous weapons and how the U.S. government has responded to their development. Some proposed solutions included International Humanitarian Law (IHL) compliance and maintaining human judgment oversight. They also discussed issues with banning autonomous weapons, especially because there is no agreed definition of what counts as an autonomous weapon, which could create confusion and limitations for enforcement.
+Team 4 continued their presentation on autonomous weapons and how the U.S. government has responded to their development. Some proposed solutions included International Humanitarian Law (IHL) compliance and maintaining human judgment oversight. They also discussed issues with banning autonomous weapons, especially because there is no agreed definition of what counts as an autonomous weapon, which could create confusion and limitations for enforcement. This definitional problem is still active in international negotiations. The UN Convention on Certain Conventional Weapons Group of Governmental Experts on lethal autonomous weapon systems met during March 2-6, 2026, and is scheduled to meet again from August 31 to September 4, 2026. The International Committee of the Red Cross has also called for legally binding rules to preserve human control over the use of force. This shows that the policy question is harder than simply asking whether autonomous weapons should be banned. The governments also have to agree on what systems count, what human control requires, and how rules would be enforced. [[UNODA 2026](https://meetings.unoda.org/ccw-/convention-on-certain-conventional-weapons-group-of-governmental-experts-on-lethal-autonomous-weapon-systems-2026)] [[ICRC 2025](https://www.icrc.org/en/statement/preserving-human-control-over-use-force-call-regulate-lethal-autonomous-weapon-systems)]
 
-The presentation referenced the National Security Commission on Artificial Intelligence (NSCAI) and emphasized that AI may be one of the most consequential inventions of this age. Governments like the U.S. The Department of Defense is shifting resources toward AI development, particularly as competition with China’s People’s Liberation Army (PLA) grows.
+The presentation referenced the National Security Commission on Artificial Intelligence (NSCAI) and emphasized that AI may be one of the most consequential inventions of this age. The U.S. Department of Defense is shifting resources toward AI development, particularly as competition with China’s People’s Liberation Army (PLA) grows.
 
 <p>
 <center>
 <img src="/images/Class14BlogPics/p2.png" width=60% alt=""></img><br></br>
 Figure 2: The Commission does not support a global prohibition of AI-enabled and autonomous weapon
-systems.<br>(Source: National Security Commission on Artificial Intelligence, 2025)
+systems.<br>(Source: National Security Commission on Artificial Intelligence, 2021)
 </center>
 
 </p>
@@ -83,16 +83,18 @@ We ended the class on the issue of whether the “black box” nature of AI conf
 
 <center>
 <img src="/images/Class14BlogPics/p4.png" width=60% alt=""></img><Br>
-<font size="-1">Figure 4: Re-asking the first questions. 
+<font size="-1">Figure 4: Re-asking the first question. 
 </center>
 
-Lastly, the same question that was asked in the beginning of the class was asked again at the end and results show a 25% shift in opinion towards allowing autonomous weapons to make life or death decisions.  
+Lastly, the same question that was asked in the beginning of the class was asked again at the end and results show a 25% shift in opinion towards allowing autonomous weapons to make life-or-death decisions.  
 
 ---
 Sources:
 -	Fleming, N. (2025, October 29). Why we should limit the autonomy of AI-enabled weapons. Nature. [https://www.nature.com/articles/d41586-025-03357-1](https://www.nature.com/articles/d41586-025-03357-1)
 -	National Security Commission on Artificial Intelligence. (2021). Autonomous weapon systems and risks associated with AI-enabled warfare (Chapter 4). In Final report. [https://reports.nscai.gov/final-report/chapter-4](https://reports.nscai.gov/final-report/chapter-4)
 -	[Team 4, autonomous weapons and AI-enabled warfare, 2026](https://docs.google.com/presentation/d/1tnCTGD3lynS7ujK0y7mtYlHJ4T4OAuPqjYyU2hVU63o/edit?usp=sharing)
+-	United Nations Office for Disarmament Affairs. Convention on Certain Conventional Weapons — Group of Governmental Experts on Lethal Autonomous Weapons Systems (2026). [https://meetings.unoda.org/ccw-/convention-on-certain-conventional-weapons-group-of-governmental-experts-on-lethal-autonomous-weapon-systems-2026](https://meetings.unoda.org/ccw-/convention-on-certain-conventional-weapons-group-of-governmental-experts-on-lethal-autonomous-weapon-systems-2026)
+-	International Committee of the Red Cross. (2025, May 12). Preserving human control over the use of force: A call to regulate lethal autonomous weapon systems under international law. [https://www.icrc.org/en/statement/preserving-human-control-over-use-force-call-regulate-lethal-autonomous-weapon-systems](https://www.icrc.org/en/statement/preserving-human-control-over-use-force-call-regulate-lethal-autonomous-weapon-systems)
 
 Additional Sources:
 -	Jennifer Belissent. (2026, January 28). Mind the gaps — and the hype — to navigate AI opportunities. Forbes. https://www.forbes.com/sites/snowflake/2026/01/28/mind-the-gaps---and-the-hype---to-navigate-ai-opportunities/

@@ -30,7 +30,7 @@ Some argued the Sora platform should be more heavily moderated, but if Sora vide
 **Presented by Team 10** [[Slides](https://docs.google.com/presentation/d/1Ou4CEQvRpeMwahgFm3EIvc2iJwFASLsgLip1iqk0W70/edit?usp=sharing)]
 
 
-- Ilia Shumailov, Zakhar Shumaylov, Yiren Zhao, Nicolas Papernot, Ross Anderson and  Yarin Gal. [_AI models collapse when trained on recursively generated data_](/docs/model-collapse-2024.pdf). Nature, July 2024.
+- Ilia Shumailov, Zakhar Shumaylov, Yiren Zhao, Nicolas Papernot, Ross Anderson and Yarin Gal. [_AI models collapse when trained on recursively generated data_](/docs/model-collapse-2024.pdf). Nature, July 2024.
 
 - Rylan Schaeffer,  Joshua Kazdan, Alvan Caleb Arulandu, and Sanmi Koyejo. [_Position: Model collapse does not mean what you think_](https://arxiv.org/pdf/2503.03150), 2025.
 
@@ -40,7 +40,7 @@ The lead team used the telephone game as an analogy for model collapse. When a m
 <img src="/images/image-3.webp" width=50% alt="visualization of a model collapsing"></img>
 </center>
 
-The lead team presented the optional reading, [_Model Collapse Does Not Mean What You Think_]((https://arxiv.org/pdf/2503.03150). The paper challenges the common idea that AI systems will eventually enter a “death spiral” where models become completely useless after being trained on synthetic data. 
+The lead team presented the optional reading, [_Model Collapse Does Not Mean What You Think_](https://arxiv.org/pdf/2503.03150). The paper challenges the common idea that AI systems will eventually enter a “death spiral” where models become completely useless after being trained on synthetic data. 
 
 The authors argue that model collapse is often misunderstood. Rather than being a total failure, collapse may appear as a gradual loss of variance in model outputs where models become “empty.” This is due to synthetic data being generally less diverse than human-generated data. 
 
@@ -77,7 +77,7 @@ Professor Evans is more worried about _cultural collapse_ than _model collapse_.
 
 Evans pointed out the tension between capturing parts of the distribution that are represented by only a few training examples and avoiding memorization, the topic for the [next class](/blogs/class22). 
 
-One of the slides raised the question of what is means for a source to be "legitimate". He compared the legitimacy of AI-generated knowledge to sources like Wikipedia, which intend capture large amounts of "objective" human knowledge even when there are disagreements or controversies. In that sense, idealized models can objectively capture and summarize views of humanity, at least inasmuch as they are trained on a corpus that reflects this. 
+One of the slides raised the question of what it means for a source to be "legitimate". He compared the legitimacy of AI-generated knowledge to sources like Wikipedia, which intend to capture large amounts of "objective" human knowledge even when there are disagreements or controversies. In that sense, idealized models can objectively capture and summarize views of humanity, at least inasmuch as they are trained on a corpus that reflects this. 
 
 
 

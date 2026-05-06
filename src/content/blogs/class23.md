@@ -9,7 +9,7 @@ author = "Team 8"
 
 # Midterm Day
 
-## Black Mirrior episode "White Christmas"
+## Black Mirror episode "White Christmas"
 
 In the beginning of the class, TA Bijan Boroumand thanked all the students for their hard work this semester and for their participation in discussions! 
 
@@ -39,11 +39,11 @@ Once again, we are brought back to the kitchen scene between Matt and Joe.
 
 Matt offers another story about the job he pursued after his divorce. We’re brought into a scene where a woman undergoes a mysterious surgery, though at first it’s unclear what it’s for. Later, we learn that a chip is implanted to study how her brain functions over the course of a week. After the chip is removed, the data is used to create a digital clone of her consciousness, which is placed into a “pod” that controls her smart home. This pod version can manage her daily routine. The pod can prep her toast and even wake her up gently by raising the blinds. However, the system begins to feel unsettling because this digital version of her appears to be sentient. At first, it doesn’t understand that it isn’t the original person even though Matt keeps reassuring the pod that it is simply made of code. 
 
-Matt’s role is to orient this pod consciousness and explain it's purpose. When the pod refuses to cooperate, Matt manipulates its perception of time, now what feels like a minute to Matt translates into six months of isolation for the pod. Trapped alone with nothing to do, the digital consciousness eventually complies after enduring what is essentially prolonged solitary confinement. 
+Matt’s role is to orient this pod consciousness and explain its purpose. When the pod refuses to cooperate, Matt manipulates its perception of time: what feels like a minute to Matt translates into six months of isolation for the pod. Trapped alone with nothing to do, the digital consciousness eventually complies after enduring what is essentially prolonged solitary confinement. 
 
-This raises a question, _if an AI could truly learn and replicate the workings of your brain, would that make it sentient?_ If so, _would it also inherit human needs or even the capacity to suffer?_
+This raises a question: _If an AI could truly learn and replicate the workings of your brain, would that make it sentient?_ If so, _would it also inherit human needs or even the capacity to suffer?_
 
 ---
 Additional Sources:
 
--   “White Christmas (Black Mirror).” (2026). Wikipedia. [Link](https://en.wikipedia.org/wiki/White_Christmas_(Black_Mirror))
+-   "White Christmas (Black Mirror)." (2026). Wikipedia. [Link](https://en.wikipedia.org/wiki/White_Christmas_(Black_Mirror))

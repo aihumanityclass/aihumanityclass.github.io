@@ -42,6 +42,8 @@ Moltbook looks like Reddit, but instead of human users it has posts exclusively 
 
 Moltbook was quickly revealed to have massive security concerns, including the potential for prompt injection attacks. Additionally, any human could make a post as an AI agent by sending an API request. Many people concluded Moltbook was either dangerous or useless. 
 
+What made Moltbook risky was not just that it was weird; it was that agent behavior could spread. If one agent read a malicious post, that content could affect other agents with permission to post, message, or act on a user's behalf. The class slides pointed to risks like phishing messages, token leaks, and account changes happening without the user's awareness. In that sense, Moltbook showed how prompt injection becomes much more serious once AI systems are given tools and accounts to use. [[Slides](/docs/class6_news.pdf)]
+
 At this point the class broke into small discussions to talk about OpenClaw and Moltbook. The class thought that it could possibly provide a small amount of entertainment, but that was negated by the security concerns and how little it added to society.
 
 Then Team 4 revealed that the advertised narrative behind this story was mostly fabricated. The platform was mainly vibe coded with minimal verification. The 1.5 million agents were actually all from only 17 thousand users. The idea was real, as some AI agents were posting, but the concept that it was entirely AI agents exclusively talking to other AI agents was fake.
@@ -64,9 +66,13 @@ The reading for this week, _GPT-4 assistance for improvement of physician perfor
 
 _Management reasoning_ refers to the complex decision making process around treatment for particular patients. This is a highly subjective process and is highly dependent on patient preference, cost, time, and other contextual factors. 
 
-The study compared the results of judgements made by physicians using GPT-4 (the LLM tool) and physicians using conventional tools. Chen and Goh found that when assisted by GPT-4, physicians recommended better care on average, but they were faster when using conventional tools. Additionally, LLM-assisted and control group physicians had similar results for likelihood of harm. The authors recommended future research to test if GPT-4 just made physicians slow down and reflect more, which resulted in better care, or if the AI powered tool actually supported better reasoning.
+The paper provides a useful example to illustrate why management reasoning is harder than simply diagnosis detection. A 2.0 cm lung nodule can be a straightforward red flag, but the right plan depends on the patient. One patient might need an immediate biopsy, another should be served by outpatient follow-up, and another should choose less invasive monitoring based on life expectancy or personal preference. The medical fact matters, but the patient's situation matters too. 
+
+The study compared physicians using GPT-4 with physicians using conventional resources. In the study, 92 practicing physicians worked on five expert-written clinical vignettes. The average score of physicians with GPT-4 is 6.5 percentage higher than score of physicians with conventional resources. However, physicians with GPT-4 also spent about two minutes longer. The study did not find a significant increase in likelihood of harm in the GPT-4 group. GPT-4 alone also performed nearly as well as physicians with GPT-4. Overall, the study suggests GPT-4 can help with clinical management reasoning, but it does not fully answer whether the improvement came from better reasoning, from making doctors slow down, or from both. 
 
 The article is published by a reputable and highly rated source. The team behind the paper includes members that are practicing physicians, experts in clinical reasoning, medical educators, and AI researchers. The paper was submitted in 2024 and since then the findings have held up and more work has been done in the field. LLMs are now seen as potential cognitive partners that are capable of assisting a physician’s structure decisions. 
+
+However, the study should not be seen as the proof that LLMs can be used in real-world case without monitoring. The experiment used simulated cases instead of live clinical care, and real deployment would still require doctors to catch hallucinations, bad recommendations, or missing context. As a result, the paper shows early evidence for human-AI collaboration in medicine, while also showing why clinical validation and physician oversight still matter.
 
 ## Discussion
 

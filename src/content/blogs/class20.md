@@ -4,7 +4,7 @@ draft = false
 title = "Class 20: Project Pitches"
 author = "Team 5"
 +++
-**Blogging Team [5]**: Yuezhang Chen, Seth Lifland, Grace Kitthanawong , Iman Mohamed, Salonee Verma
+**Blogging Team [5]**: Yuezhang Chen, Seth Lifland, Grace Kitthanawong, Iman Mohamed, Salonee Verma
 
 [Slides](https://www.dropbox.com/scl/fi/t0u46t05jwvvyn15398aa/cs4501ha-s26-class20.pdf?rlkey=w73vubklcg7fw3r5mu1echyzk&e=1&dl=0)
 
@@ -22,7 +22,7 @@ Project team Amber presented first, titled: “A Model’s Ethical Variability�
 
 ## Jade
 
-Project team Jade then presented their work on "Autonomous Game Playing: Terminal”, which aims to test how adjusting different parameters can affect a models strategy in the game Terminal. The project is showcasing how small changes to reward functions can cause large differences in model behavior, which generalizes to real use cases. So far, they have found that tweaking aggression level has a large impact on model win rate, with multiple sweet spots at very low aggression and at medium aggression.
+Project team Jade then presented their work on "Autonomous Game Playing: Terminal”, which aims to test how adjusting different parameters can affect a model's strategy in the game Terminal. The project is showcasing how small changes to reward functions can cause large differences in model behavior, which generalizes to real use cases. So far, they have found that tweaking aggression level has a large impact on model win rate, with multiple sweet spots at very low aggression and at medium aggression.
 
 ## Cyan
 
@@ -59,9 +59,9 @@ Team Fushia’s project “Unskilled to Autofilled” explores whether AI can ge
 
 # Professor Evans’s Feedback
 
-After all the teams had gone, Professor Evans provided the class with some advice and final feedback, emphasizing that teams should take notice of certain aspects of the presentations they have seen from other teams. Many had great ideas and slides that worked really well, so people should think about how to incorporate effective approaches they see from others into their own presentations. But, there were also slides and presentations that didn't work as well, and it is good to learn from these and try to understand what are the reasons for a presentation to be less effective and to observe carefully and learn to avoid things that didn't work in your own presentations.
+After all the teams had gone, Professor Evans provided the class with some advice and final feedback, emphasizing that teams should take notice of certain aspects of the presentations they have seen from other teams. Many had great ideas and slides that worked really well, so people should think about how to incorporate effective approaches they see from others into their own presentations. But, there were also slides and presentations that didn't work as well, and it is good to learn why a presentation is less effective and to observe carefully and learn to avoid things that didn't work in your own presentations.
 
-He highlighted the value of the space on the screen effectively, and encouraged groups to use it in the most useful way, such as having a large image that fills most of the screen rather than having 80% of the screen space unused.
+He highlighted the value of using screen space effectively, and encouraged groups to use it in the most useful way, such as having a large image that fills most of the screen rather than having 80% of the screen space unused.
 
 As a reminder, we discussed some ways to make better presentations in [Class 14](/blogs/class14), and if you haven't already watched it, please watch 
 Patrick Henry Winston's [_How to Speak_](https://www.youtube.com/watch?v=Unzc731iCUY) talk.
