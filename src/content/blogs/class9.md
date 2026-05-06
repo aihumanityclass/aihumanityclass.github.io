@@ -104,6 +104,8 @@ The paper’s authors all have strong backgrounds in security and privacy, and T
 
 A big issue comes from the pretraining stage where models can memorize parts of their training data. This leads to serious problems like privacy leaks, copyright violations, exposure of API keys or SSO tokens, private documents, and even illegal information. This isn’t just a theoretical risk as LLMs have been broken into before with private information that has been extracted in the past.
 
+However, the metric for distinguishing memorization from generalization is still not well-defined. A later paper by Tiwari, Trachtenberg, and Suh argues that not every matching output should automatically be treated as memorization, because some sequences are statistically common enough that a model may generate them from many unrelated prompts. They propose the metric Prior-Aware Memorization, which asks whether a generated suffix is strongly tied to a specific training prefix or whether it is likely in general. In their experiments, 55% to 90% of sequences previously labeled as memorized were actually better explained as common-pattern behavior. This does not remove the privacy risk from extraction attacks, but it shows that measuring memorization is not the same as checking whether the model output appears in a dataset. [[Tiwari et al. 2026](https://arxiv.org/abs/2602.18733)]
+
 Team 11 also explained how alignment works, mainly through reinforcement learning from human feedback (RLHF). The process involves collecting demonstration data, collecting comparison data, training a reward model, and then optimizing the model to behave in a way humans prefer. Alignment helps models stay on topic, follow instructions, and avoid harmful outputs.
 
 There are two main attacks from the paper, divergence attacks and fine‑tuning attacks. The researchers built a massive 9TB auxiliary dataset to verify whether extracted text actually came from the model’s training data. They ran experiments comparing aligned and non‑aligned models to see how much each memorized. Unsurprisingly, non‑aligned models memorized significantly more data; however, aligned models still leaked information.
@@ -131,3 +133,6 @@ There are also instances of companies using LLMs to collect sensitive data witho
 While this discussion was cut short due to time constraints, general consensus appeared to be that companies should take the majority of responsibility regarding harms from training data extraction. It is also important to consider the original source of training data and whether that presents additional ethical complications. Users should be aware of the implication of uploading personal data to LLMs, however. 
 
 
+# Sources
+
+Tiwari, Trishita, Ari Trachtenberg, and G. Edward Suh. _Prior Aware Memorization: An Efficient Metric for Distinguishing Memorization from Generalization in Large Language Models._ arXiv, 21 Feb. 2026, [https://arxiv.org/abs/2602.18733](https://arxiv.org/abs/2602.18733). Accessed 6 May 2026.
