@@ -52,7 +52,7 @@ Figure 1: Pulled from class poll
 
 The presentation introduced key legal principles from International Humanitarian Law relevant to autonomous weapons, including the ability to distinguish civilians from combatants, the principle of proportionality in attacks, and the issue of accountability for the use of force. The team also summarized arguments for limiting the autonomy of AI-enabled weapons, including concerns about false positives, automation bias among human operators, and the difficulty of assigning responsibility when accountability becomes diffused across many actors.
 
-Team 4 continued their presentation on autonomous weapons and how the U.S. government has responded to their development. Some proposed solutions included International Humanitarian Law (IHL) compliance and maintaining human judgment oversight. They also discussed issues with banning autonomous weapons, especially because there is no agreed definition of what counts as an autonomous weapon, which could create confusion and limitations for enforcement.
+Team 4 continued their presentation on autonomous weapons and how the U.S. government has responded to their development. Some proposed solutions included International Humanitarian Law (IHL) compliance and maintaining human judgment oversight. They also discussed issues with banning autonomous weapons, especially because there is no agreed definition of what counts as an autonomous weapon, which could create confusion and limitations for enforcement. This definitional problem is still active in international negotiations. The UN Convention on Certain Conventional Weapons Group of Governmental Experts on lethal autonomous weapon systems met during March 2-6, 2026, and is scheduled to meet again from August 31 to September 4, 2026. The International Committee of the Red Cross has also called for legally binding rules to preserve human control over the use of force. This shows that the policy question is harder than simply asking whether autonomous weapons should be banned. The governments also have to agree on what systems count, what human control requires, and how rules would be enforced. [[UNODA 2026](https://meetings.unoda.org/ccw-/convention-on-certain-conventional-weapons-group-of-governmental-experts-on-lethal-autonomous-weapon-systems-2026)] [[ICRC 2025](https://www.icrc.org/en/statement/preserving-human-control-over-use-force-call-regulate-lethal-autonomous-weapon-systems)]
 
 The presentation referenced the National Security Commission on Artificial Intelligence (NSCAI) and emphasized that AI may be one of the most consequential inventions of this age. The U.S. Department of Defense is shifting resources toward AI development, particularly as competition with China’s People’s Liberation Army (PLA) grows.
 
@@ -60,7 +60,7 @@ The presentation referenced the National Security Commission on Artificial Intel
 <center>
 <img src="/images/Class14BlogPics/p2.png" width=60% alt=""></img><br></br>
 Figure 2: The Commission does not support a global prohibition of AI-enabled and autonomous weapon
-systems.<br>(Source: National Security Commission on Artificial Intelligence, 2025)
+systems.<br>(Source: National Security Commission on Artificial Intelligence, 2021)
 </center>
 
 </p>
@@ -93,6 +93,8 @@ Sources:
 -	Fleming, N. (2025, October 29). Why we should limit the autonomy of AI-enabled weapons. Nature. [https://www.nature.com/articles/d41586-025-03357-1](https://www.nature.com/articles/d41586-025-03357-1)
 -	National Security Commission on Artificial Intelligence. (2021). Autonomous weapon systems and risks associated with AI-enabled warfare (Chapter 4). In Final report. [https://reports.nscai.gov/final-report/chapter-4](https://reports.nscai.gov/final-report/chapter-4)
 -	[Team 4, autonomous weapons and AI-enabled warfare, 2026](https://docs.google.com/presentation/d/1tnCTGD3lynS7ujK0y7mtYlHJ4T4OAuPqjYyU2hVU63o/edit?usp=sharing)
+-	United Nations Office for Disarmament Affairs. Convention on Certain Conventional Weapons — Group of Governmental Experts on Lethal Autonomous Weapons Systems (2026). [https://meetings.unoda.org/ccw-/convention-on-certain-conventional-weapons-group-of-governmental-experts-on-lethal-autonomous-weapon-systems-2026](https://meetings.unoda.org/ccw-/convention-on-certain-conventional-weapons-group-of-governmental-experts-on-lethal-autonomous-weapon-systems-2026)
+-	International Committee of the Red Cross. (2025, May 12). Preserving human control over the use of force: A call to regulate lethal autonomous weapon systems under international law. [https://www.icrc.org/en/statement/preserving-human-control-over-use-force-call-regulate-lethal-autonomous-weapon-systems](https://www.icrc.org/en/statement/preserving-human-control-over-use-force-call-regulate-lethal-autonomous-weapon-systems)
 
 Additional Sources:
 -	Jennifer Belissent. (2026, January 28). Mind the gaps — and the hype — to navigate AI opportunities. Forbes. https://www.forbes.com/sites/snowflake/2026/01/28/mind-the-gaps---and-the-hype---to-navigate-ai-opportunities/
