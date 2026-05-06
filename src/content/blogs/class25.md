@@ -80,7 +80,7 @@ Problems:
 - The text is too small and difficult to read
 - Title and caption duplicate
 - Tables should not have lines separating columns or rows as their most visible feature
-- Its called a "Figure" but is really a "Table"
+- It's called a "Figure" but is really a "Table"
 
 (See the [slides for a slight improvement](https://www.dropbox.com/scl/fi/vir817kheay3crd0rn558/cs4501ha-s26-class24.pdf?rlkey=dzi7v0re0xowi1gizf1n36jlt&dl=0)].)
 
@@ -111,12 +111,12 @@ AI can be a useful tool for data visualization, but do not plug your data into A
 
 1. No self-respecting computer scientist uses Excel (or something even worse like Google Sheets) to generate a data visualization.
 2. No one who cares about presenting data uses the default colors.
-3. Don’t make your audience put more effort into understanding your graphic you put into making it. 
+3. Don’t make your audience put more effort into understanding your graphic than you put into making it. 
 
 
 ### **Why Does Anthropic Have Bad Graphics?**
 
-One student suggested a cynical take that Anthropic purposely uses unclear graphics to misrepresent data, prevent viewers from understanding their data, and encourage support of their narrative. Prof. Evans believes that this take gives Anthropic more credit than they are actually due, and that these bad graphics are a result of specialized people no longer being hired and rsearchers assuming that they can make good graphics themselves, probably with AI.
+One student suggested a cynical take that Anthropic purposely uses unclear graphics to misrepresent data, prevent viewers from understanding their data, and encourage support of their narrative. Prof. Evans believes that this take gives Anthropic more credit than they are actually due, and that these bad graphics are a result of specialized people no longer being hired and researchers assuming that they can make good graphics themselves, probably with AI.
 
 [Note: On April 17 (the day after this class), Anthropic announced [**Claude Design**](https://www.anthropic.com/news/claude-design-anthropic-labs). Presumably Anthropic does have some competent graphic designers who worked on this, although the examples in the demo video are not great in my (Dave) opinion.]
 
@@ -132,13 +132,13 @@ Sam Altman’s p(doom) is 0.5. Prof. Evans’ is essentially 0. If doom means th
 
 ### _"Do you think AI has had more positive or negative influence on CS majors? Do you think people are learning more or less?"_
 
-Prof. Evans thinks we are the last generation at an advantage over others because we were exposed to AI later than others so had an opportunity to develop lots of skills and understanding with direct motivation that won't be available to next generation, who will have a harder time to learn what we learned. This is similar to the difference between us and those who grew up learning assembly and compilers, but not as significant as us and the next generation. AI is the not the primary reason for the tough job market for entry CS roles.
+Prof. Evans thinks we are the last generation at an advantage over others because we were exposed to AI later than others so had an opportunity to develop lots of skills and understanding with direct motivation that won't be available to the next generation, who will have a harder time to learn what we learned. This is similar to the difference between us and those who grew up learning assembly and compilers, but not as significant as us and the next generation. AI is the not the primary reason for the tough job market for entry CS roles.
 
-He hopes that we still have fun doing things manually or learning low level skills as a hobby, althought there probably will not be a lot of jobs for those anymore. Things that were really painful or tedious are easier now. Learning is easier and more fun because of AI tools, and people who take advantage of that will learn a lot.
+He hopes that we still have fun doing things manually or learning low level skills as a hobby, although there probably will not be a lot of jobs for those anymore. Things that were really painful or tedious are easier now. Learning is easier and more fun because of AI tools, and people who take advantage of that will learn a lot.
 
 ### _"How did you get involved in AI court cases?"_
 
-A former student who set up an ISP to sue spammers asked Prof. Evans to testify in a case against a spammer to prove that the packet headers were forged. U.S. and Plaintiff States v. Google LLC (2020) was Prof. Evan’s second court case. A PhD student did research on Google’s management of 3rd party cookies and data privacy with advertisers. Prof. Evans wrote a blog post on Google’s privacy decisions, which may have been how he got involved. He was involved in the remedy phase of the anti-trust case, which sought to require Google to share data on user search behaviors. Google argued they couldn’t do this without compromising privacy. He is currently on a LLM privacy case and only takes cases that are fun and that he supports.
+A former student who set up an ISP to sue spammers asked Prof. Evans to testify in a case against a spammer to prove that the packet headers were forged. U.S. and Plaintiff States v. Google LLC (2020) was Prof. Evan’s second court case. A PhD student did research on Google’s management of third-party cookies and data privacy with advertisers. Prof. Evans wrote a blog post on Google’s privacy decisions, which may have been how he got involved. He was involved in the remedy phase of the anti-trust case, which sought to require Google to share data on user search behaviors. Google argued they couldn’t do this without compromising privacy. He is currently on a LLM privacy case and only takes cases that are fun and that he supports.
 
 Further Reading:
 
@@ -155,9 +155,9 @@ Five years ago, Prof. Evans gave a talk on jobs for humans in the future at a fu
 
 **Dave's note:** I don't think I answered this question well at the time, so will add some more now. The most concrete recorded set of predictions I've made is [from this cs4414: Operating Systems class](https://rust-class.org/class-23-invent-the-future.html) (making predictions in 2014 for what will be in 2029). I'm a bit embarrassed about my "end to world poverty" implied prediction, and the timing on Prediction #4 may be off by a few years (although that remains to be seen). For some more narrow predictions (focused on multi-party computation), the predictions I made in [this 2014 talk](https://www.cs.virginia.edu/~evans/talks/ampc2014/) I think have turned out to look quite good.
 
-From a financial standpoint, the worst predictions I've made have been telling people not to buy bitcoin since about 2009. Someone who ignored my advice and invested $1000 in bicoin back then would have around a billion dollars today (on the other hand, they probably would have lost their private key, and then it would be worth $0). I was still discouraging students in my [Cryptocurrency Classes](https://bitcoin-class.org/0/) (2015) from buying bitcoin, and if they had ignored me and invested $1000 then it would only be worth about half a million dollars today. Fortunately, I also tell students not to take financial advice from CS professors, so don't feel too bad about anyone who actually is not rich now because they didn't follow my advice.
+From a financial standpoint, the worst predictions I've made have been telling people not to buy bitcoin since about 2009. Someone who ignored my advice and invested $1000 in bitcoin back then would have around a billion dollars today (on the other hand, they probably would have lost their private key, and then it would be worth $0). I was still discouraging students in my [Cryptocurrency Classes](https://bitcoin-class.org/0/) (2015) from buying bitcoin, and if they had ignored me and invested $1000 then it would only be worth about half a million dollars today. Fortunately, I also tell students not to take financial advice from CS professors, so don't feel too bad about anyone who actually is not rich now because they didn't follow my advice.
 
-I guess the biggest implied AI-related predictions I made were deciding AI (and robotics in particular) was less interesting to work on than programming languages and then security back when I was an undergraduate student, around 1991. And then, being convinced that security issues related to AI was a good area to start working in around 2015. I didn't think of these as "predictions", just following curiosity and opportunity to work on the things that seemed most interesting, but at some level, every decision we make about what to spend our time on is a prediction about the short-term and long-term future. 
+I guess the biggest implied AI-related predictions I made were deciding AI (and robotics in particular) was less interesting to work on than programming languages and then security back when I was an undergraduate student, around 1991. And then, being convinced that security issues related to AI were a good area to start working in around 2015. I didn't think of these as "predictions", just following curiosity and opportunity to work on the things that seemed most interesting, but at some level, every decision we make about what to spend our time on is a prediction about the short-term and long-term future. 
 
  
 ### _"Are you satisfied with how the class has gone?"_

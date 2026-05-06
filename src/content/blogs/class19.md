@@ -60,7 +60,7 @@ We then considered how AI creates meaning, and if it really interacts with human
 The next activity had the class drawing to the prompt: “Draw a kitchen table, ready for dinner. It has plates, napkins, utensils and cups.” After we finished drawing, we shared out and then looked at how AI drew this prompt.
 
 <center>
-<img src="/images/AI_Drawn_Table.png" width=70% alt="Ai drawn table"></img>
+<img src="/images/AI_Drawn_Table.png" width=70% alt="AI-drawn table"></img>
 
   **AI-generated image responding to the aforementioned prompt.**
 </center>
