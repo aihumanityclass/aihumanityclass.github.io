@@ -107,8 +107,8 @@ interpretable models instead</em>. Nature Machine Intelligence, May 2019. [<a hr
       </tr>
   </tbody>
 </table>
-<p>Black box models are not interpretable, as there is no way to understand the full process between taking in input and producing output. A black box model that explains its thinking post-decision making is not a true window into its workings.</p>
-<p>Rudin argues that the use of black box models and reliance on explainability for legitimacy, particularly in high stakes decisions, holds great potential dangers. She advocates for the pivot to interpretable models entirely, which can still be powerful, with some examples being decision trees and regression models.</p>
+<p>Black box models are not interpretable, as there is no way to understand the full process between taking in input and producing output. The post-decision explanation usually uses a second model to infer the most likely reasoning process from the input to the output. The explanation may be different from the true working process. [<a href="/docs/rudin2019.pdf">Rudin 2019</a>]</p>
+<p>Rudin argues that the use of black box models and reliance on explainability for legitimacy, particularly in high stakes decisions, holds great potential dangers. She advocates for the pivot to interpretable models entirely. She argues that interpretable models with structured data and meaningful features can match black box models after careful preprocessing and design, and then &ldquo;we need the black box for accuracy&rdquo; is sometimes just an excuse to avoid transparency. [<a href="/docs/rudin2019.pdf">Rudin 2019</a>]</p>
 <p>Another example is found in another paper co-authored by Rudin, <a href="https://arxiv.org/pdf/1806.10574"><em>This Looks Like That: Deep Learning for Interpretable Image Recognition</em></a>, in which the researchers introduce ProtoPNet (prototypical part network) for image classification, a deep network architecture that identifies and reasons through prototypical parts similarly to how humans would.</p>
 <center>
 <img src="/images/protopnet.png" width=60% alt="ProtoPNet Reasoning Process"></img><br>
@@ -130,9 +130,9 @@ interpretable models instead</em>. Nature Machine Intelligence, May 2019. [<a hr
 <p>(<a href="https://axenehp.com/health-insurer-claim-denial-rates-kaiser-outlier/">Source</a>)</p>
 </center>
 <p>Given the potential harms of black box models, why is it that they are still used for critical decisions?</p>
-<p>Possible reasons include corporate greed, ease of development, and the belief that black box models prevent “gaming” of the system and have the capability discover hidden patterns. Companies may not want to reveal their trade secrets, or developers may want to avoid the computationally hard problems and genuine understanding/optimization that comes with building interpretable models.</p>
-<p>Some argue in defense of the way black box models prevent users from understanding what the model is analyzing, since it prevents outcomes from being manipulated by users, however the ability to game an interpretable model simply makes transparent a problem that can be fixed. Lastly, there exists idea that the complexity of black box models enables them to discover hidden patterns humans can’t, although it is likely interpretable models have this same ability.</p>
-<p>Current AI regulation in both the EU and US illustrate the reluctance to condemn black box models. The EU AI Act classifies systems by risk, stipulating that high-risk systems and black box models are permitted with documentation, oversight, and testing. In the US, the Colorado AI Act permits black boxes as long as companies perform internal “Impact Assessments”, which do not get disclosed to the public. The NYC Local Law 144 is demands just slightly more transparency, requiring employers to public a public summary of bias audits for hiring algorithms.</p>
+<p>Possible reasons include corporate greed, ease of development, and the belief that black box models prevent “gaming” of the system and have the capability discover hidden patterns. Companies may not want to reveal their trade secrets, especially when a black box model can be treated as proprietary IP and sold without exposing how it works. Developers may also want to avoid the computationally hard problems and genuine understanding/optimization that comes with building interpretable models. [<a href="/docs/rudin2019.pdf">Rudin 2019</a>]</p>
+<p>Some argue in defense of the way black box models prevent users from understanding what the model is analyzing, since it prevents outcomes from being manipulated by users, however the ability to game an interpretable model simply makes transparent a problem that can be fixed. Lastly, there exists the idea that the complexity of black box models enables them to discover hidden patterns humans can’t, although it is likely interpretable models have this same ability.</p>
+<p>Current AI regulations in both the EU and US still illustrate the reluctance to condemn black box models. The EU AI Act classifies systems by risk, stipulating that high-risk systems and black box models are permitted with documentation, oversight, and testing. In Colorado, SB 24-205 permits black boxes as long as companies follow risk-management steps such as documentation, impact assessments, consumer notices, and public summaries, and SB 25B-004 later delayed those requirements to June 30, 2026. NYC Local Law 144 demands just slightly more transparency, requiring employers to publish a public summary of bias audits for hiring algorithms. [<a href="https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-13">EU AI Act Article 13</a>] [<a href="https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-14">EU AI Act Article 14</a>] [<a href="https://leg.colorado.gov/bills/sb24-205">Colorado SB 24-205</a>] [<a href="https://leg.colorado.gov/bills/sb25b-004">Colorado SB 25B-004</a>] [<a href="https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page">NYC DCWP</a>]</p>
 <center>
 <img src="/images/ai_risk.png" width=60% alt="EU AI Act Risk Pyramid"></img><br>
 <strong>Figure 5</strong>: EU AI Act Risk Pyramid
@@ -153,7 +153,7 @@ interpretable models instead</em>. Nature Machine Intelligence, May 2019. [<a hr
 
       </div>
 
-      <meta itemprop="wordCount" content="1736">
+      <meta itemprop="wordCount" content="1825">
       <meta itemprop="datePublished" content="2026-02-16">
       <meta itemprop="url" content="https://aihumanityclass.github.io/blogs/class8/">
     </article>

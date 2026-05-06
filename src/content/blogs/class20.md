@@ -59,7 +59,7 @@ Team Fushia’s project “Unskilled to Autofilled” explores whether AI can ge
 
 # Professor Evans’s Feedback
 
-After all the teams had gone, Professor Evans provided the class with some advice and final feedback, emphasizing that teams should take notice of certain aspects of the presentations they have seen from other teams. Many had great ideas and slides that worked really well, so people should think about how to incorporate effective approaches they see from others into their own presentations. But, there were also slides and presentations that didn't work as well, and it is good to learn why a presentation is less effective and to observe carefully and learn to avoid things that didn't work in your own presentations.
+After all the teams had gone, Professor Evans provided the class with some advice and final feedback, emphasizing that teams should take notice of certain aspects of the presentations they have seen from other teams. Many had great ideas and slides that worked really well, so people should think about how to incorporate effective approaches they see from others into their own presentations. But, there were also slides and presentations that didn't work as well, and it is good to learn from observing others' presentations why a presentation is ineffective or unpleasant and to learn to avoid things that didn't work in your own presentations.
 
 He highlighted the value of using screen space effectively, and encouraged groups to use it in the most useful way, such as having a large image that fills most of the screen rather than having 80% of the screen space unused.
 

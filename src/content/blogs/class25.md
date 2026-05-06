@@ -80,7 +80,7 @@ Problems:
 - The text is too small and difficult to read
 - Title and caption duplicate
 - Tables should not have lines separating columns or rows as their most visible feature
-- It's called a "Figure" but is really a "Table"
+- It is called a "Figure" but is really a "Table"
 
 (See the [slides for a slight improvement](https://www.dropbox.com/scl/fi/vir817kheay3crd0rn558/cs4501ha-s26-class24.pdf?rlkey=dzi7v0re0xowi1gizf1n36jlt&dl=0)].)
 

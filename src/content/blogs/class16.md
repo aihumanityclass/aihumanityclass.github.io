@@ -65,7 +65,7 @@ In his best-selling 1968 book, [_The Population Bomb_](https://archive.org/detai
 
 His predictions proved to be spectacularly wrong. 
 
-The Green Revolution's advances, such as introducing HYV(High-yielding variety) seeds, new irrigation systems, synthetic fertilizers, and pesticides in the 1940s-60s, significantly improved agriculture and decreased famine-related deaths by a huge margin. 
+The Green Revolution's advances, such as introducing HYV (high-yielding variety) seeds, new irrigation systems, synthetic fertilizers, and pesticides in the 1940s-60s, significantly improved agriculture and decreased famine-related deaths by a huge margin. 
 
 Starvation went up in the 1970s mostly due to Mao Zedong's Great Leap Forward, which killed 15-55 million deaths by starvation. The One Child Policy was introduced later in China, which was largely based on Ehrlich's theories. Paul Ehrlich also proposed research into prenatal sex determination (gender selection) as a population control measure, arguing that if parents could guarantee a male child first, they would not continue having more children in pursuit of a son. 
 
@@ -96,7 +96,7 @@ The 3/17 reading from Anthropic goes deeper into that point about the job market
 
 ## Activity: Table Research and Briefs
 
-During class, the lead team assigned each table with one of three or four specific careers and gave them time to research how each career would be impacted by AI. After research time was over, each table presented 60-second briefs on their findings and thoughts. Here are the careers we discussed and the insights the class had on them:
+During class, the lead team assigned each table with one of four specific careers and gave them time to research how each career would be impacted by AI. After research time was over, each table presented 60-second briefs on their findings and thoughts. Here are the careers we discussed and the insights the class had on them:
 
 * **Education (K-12 and Higher Education):** The impact of AI in education will depend heavily on the age of students. Personal connection and interaction are crucial for younger children in teaching soft skills like teamwork and empathy that AI cannot provide. For older students however, in high school and higher education, direct human interaction is less important and AI can prove much more useful. AI will be helpful in higher level tasks like explaining complex concepts and assisting with assignments, which could reduce a need for teaching assistants and other lower-level educators.
 

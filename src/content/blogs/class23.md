@@ -46,4 +46,4 @@ This raises a question: _If an AI could truly learn and replicate the workings o
 ---
 Additional Sources:
 
--   "White Christmas (Black Mirror)." (2026). Wikipedia. [Link](https://en.wikipedia.org/wiki/White_Christmas_(Black_Mirror))
+-   "White Christmas (Black Mirror)" (2026). Wikipedia. [Link](https://en.wikipedia.org/wiki/White_Christmas_(Black_Mirror))

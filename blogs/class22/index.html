@@ -71,7 +71,7 @@
 <li>Cieslak, M. <a href="https://www.bbc.com/news/articles/cdrm52g4pl2o"><em>Palantir UK boss says it’s up to militaries to decide how AI targeting is used in war</em></a>. BBC News, April 2026.</li>
 <li>Kim, W. (2026, March 10). <a href="https://www.techbrew.com/stories/ai-warfare-iran-maven"><em>The Pentagon’s growing use of AI in warfare. Tech Brew</em></a>. Morning Brew, 10 March 2026.</li>
 <li>Brown, M. <a href="https://www.forbes.com/sites/mikebrown/2026/03/30/the-first-ai-war-how-the-iran-conflict-is-reshaping-warfare/"><em>The First AI War: How The Iran Conflict Is Reshaping Warfare</em></a>. Forbes, March 2026.</li>
-<li><a href="https://www.dw.com/en/how-ai-is-shaping-the-war-in-iran/video-76654997"><em>How AI is shaping the war in Iran</em></a>. . DW.com, 3 April 2026.</li>
+<li><a href="https://www.dw.com/en/how-ai-is-shaping-the-war-in-iran/video-76654997"><em>How AI is shaping the war in Iran</em></a>. DW.com, 3 April 2026.</li>
 <li>Now, D. <a href="https://www.democracynow.org/2026/3/31/project_maven_manson_bloomberg_ai_warfare"><em>The AI War on Iran: Project Maven, a Secretive Palantir-Run System, Helps Pentagon Pick Bomb Targets</em></a>. Democracy Now!, 31 March 2026.</li>
 <li><a href="https://www.iiss.org/online-analysis/charting-middle-east/2026/04/the-proliferation-of-ai-enabled-military-technology-in-the-middle-east/"><em>The proliferation of AI-enabled military technology in the Middle East</em></a>. IISS, 2026.</li>
 </ul>
@@ -82,7 +82,7 @@
 <img src="/images/class21/palantir-maven-dashboard.png" width="70%" alt="Screenshot of Palantir Maven Smart System showing satellite map of Woody Island with tactical overlays and side panels"></img>
 <p><em>Palantir Maven Smart System (© Palantir Technologies).</em></p>
 </center>
-<p>We also talked about reports that Google and Amazon have agreements to notify Israel when certain kinds of data is released in response to a government request. That raised questions about how tech companies interact with allied governments and where “platform policy” stops and national security starts.</p>
+<p>We also talked about reports that Google and Amazon have agreements to notify Israel when certain kinds of data are released in response to a government request. That raised questions about how tech companies interact with allied governments and where “platform policy” stops and national security starts.</p>
 <p>Palantir often describes Maven as a support tool, which sparked a whole thread on blame. If something goes wrong, who is responsible: the vendor, command, or the operator on the console? Several people said modern war can distance you from the violence while still amplifying how far one choice reaches. We kept coming back to telling civilians from combatants and whether it’s acceptable for systems to narrow or suggest those categories. Someone also asked why sensitive-looking software gets demo’d so openly on the internet.</p>
 <hr>
 <h1 id="lead-recall-of-copyrighted-material-in-llms">Lead: Recall of copyrighted material in LLMs</h1>
@@ -99,7 +99,7 @@
 <p>There are also sometimes questions about how the training data was obtained. Anthropic has a project where it is buying physical books and scanning them  (sometimes talked about next to Project Panama). It paid a $1.5B settlement in a lawsuit to copyright holders of books in a &ldquo;pirated&rdquo; book dataset (after the judge ruled that using content in training was itself not a copyright infringement and covered by fair use).</p>
 <p>In class we used alignment to mean the post-training shaping that keeps models helpful and less likely to leak training text in normal chat. The open question is whether alignment actually limits memorization or mostly makes extraction harder until you finetune or jailbreak.</p>
 <h2 id="paper-takeaway-finetuning-as-alignment-whack-a-mole">Paper takeaway: finetuning as “alignment whack-a-mole”</h2>
-<p>The authors of the <em>Alignment Whack-a-Mole</em> paper finetuned industrial large language  models on tasks like turning plot summaries into full prose (think writing-assistant behavior) and demonstrated that models that rarely dump verbatim books use can still spit out huge chunks of held-out copyrighted novels after finetuning.</p>
+<p>The authors of the <em>Alignment Whack-a-Mole</em> paper finetuned industrial large language models on tasks like turning plot summaries into full prose (think writing-assistant behavior) and demonstrated that models that rarely dump verbatim books use can still spit out huge chunks of held-out copyrighted novels after finetuning.</p>
 <p>Finetuning on one author (they highlight Haruki Murakami) can still unlock text from many other authors, which points to memorization sitting in pretraining and getting “woken up” later. When finetuning data is synthetic, extraction basically collapses, which fits the story that book-like finetuning interacts with whatever book piracy was in the base model. They also find different providers memorizing the same books in similar places, which looks like an industry-wide weak spot, not one bad vendor. On the legal side, they argue this kind of finetuning pressures fair-use reasoning that assumes alignment and filters are enough to stop protectable expression from leaking.</p>
 <p>This diagram from the lead team’s materials is a plain explanation of transfer learning: giant pretrain, then a smaller finetune step where early layers are frozen and later layers update. It isn’t from the paper itself, but it helps explain why a small adaptation step can change what the model outputs so dramatically.</p>
 <center>
@@ -107,7 +107,7 @@
 <p>Pretraining and finetuning.
 Source: <a href="https://joseparreogarcia.substack.com/p/llms-explained-part-4-llm-fine-tuning-how-it-works"><em>LLMs explained</em>, Jose Garcia</a></p>
 </center>
-<p>In our terms: can a “aligned” production model still be nudged into outputting copyrighted books in its training data, especially after finetuning?</p>
+<p>In our terms: can an “aligned” production model still be nudged into outputting copyrighted books in its training data, especially after finetuning?</p>
 <p>Baseline chatting often looks safe; author-styled or continuation finetuning can crank up word-for-word recovery on books that never appeared in the finetune set. The synthetic-data experiments suggest the model already “knew” the books from pretrain rather than overfitting to one shelf. Swapping public-domain vs. locked-down settings and varying authors helped us separate “this one weird author” from “it’s mostly about base weights.”</p>
 <p>If an ordinary finetuning recipe can unlock long verbatim passages, it suggests that the base model still contains a &ldquo;copy&rdquo; of the work even if it cannot be extracted without the finetuning process.</p>
 <h2 id="where-responsibility-should-sit">Where responsibility should sit</h2>
@@ -116,7 +116,7 @@ Source: <a href="https://joseparreogarcia.substack.com/p/llms-explained-part-4-l
 <p>We also circled back to a simple definition: alignment is people steering the model toward a goal. It never promised the model forgets its training.</p>
 <h2 id="seedance-and-the-face-to-voice-scare">Seedance and the face-to-voice scare</h2>
 <p>ByteDance’s Seedance 2.0 came up through TechNode and a bit of optional reading. The short version is a video-plus-audio model where a reporter-style test claimed you could upload a face photo and get audio that sounded like that person’s real voice without a normal voice enrollment. Jimeng (the app name in China) walked back some uses of hyper-real reference photos and added live verification for certain avatars. It’s a concrete example of a shortcut from a headshot to plausible voice, and consent norms are not there yet.</p>
-<p>This frame is from one of the viral Seedance clips: big-budget action look, obviously synthetic celeb-adjacent faces. It’s the kind of thing people share when they talk about how far video models have come.</p>
+<p>This frame is from one of the viral Seedance clips: a big-budget action look, obviously synthetic celeb-adjacent faces. It’s the kind of thing people share when they talk about how far video models have come.</p>
 <center>
 <img src="/images/class21/seedance-ai-video-frame.png" width="88%" alt="AI-generated video frame showing two action-movie style figures on a rooftop at sunset"></img>
 <p><em>Still from a viral Seedance-generated video.</em></p>
