@@ -23,7 +23,7 @@ Being declared a **supply chain risk** means that Anthropic would be [blackliste
 
 The class discussed how this seems like a very black-and-white situation: Anthropic can either acquiesce to their models being used for exactly what the DoD wants, or take a massive hit to business viability. There are many potential middlegrounds, such as Anthropic withdrawing from the contract but not being declared a supply chain risk, but as of class time the DoD seems committed to their strong ultimatum.
 
-> **Updates:** On Friday, the DoW declared Anthropic a "supply chain risk", and OpenAI signed a contract with the DoW. This is a [developing situation](https://canvas.its.virginia.edu/courses/161890/discussion_topics/712462), and the full details of OpenAI's contract are not yet known. 
+> **Updates:** After class, the dispute became more concrete. On February 27, Anthropic said the negotiations broke down because the DoW wanted to make two exceptions that Anthropic wanted to keep. The exceptions are no mass domestic surveillance of Americans and no fully autonomous weapons. On March 6, the Pentagon said it had officially informed Anthropic that the company and its products were deemed a supply chain risk, effective immediately. OpenAI announced a Department of War agreement on February 28, then updated it on March 2 to add explicit language against domestic surveillance of U.S. persons. The updates supported the discussion in the class that the issue was not just whether AI companies should have safety policies, but whether those policies can survive pressure from government procurement and national-security demands. [[Anthropic statement](https://www.anthropic.com/news/statement-comments-secretary-war)] [[Defense News/AP](https://www.defensenews.com/news/pentagon-congress/2026/03/06/pentagon-says-it-is-labeling-anthropic-a-supply-chain-risk-effective-immediately/)] [[OpenAI statement](https://openai.com/index/our-agreement-with-the-department-of-war/)]
 
 **[Additional News: _From FARS to Vibe Research_](/blogs/class13-airesearch)**
 
@@ -145,6 +145,9 @@ Surprisingly, no one voted for "Loss of jobs". The votes were roughly equally sp
 - [Chinese firms accused of Claude distillation](https://www.cnbc.com/2026/02/24/anthropic-openai-china-firms-distillation-deepseek.html) — CNBC
 - [Pentagon-Anthropic standoff over AI guardrails](https://www.npr.org/2026/02/26/nx-s1-5727847/anthropic-defense-hegseth-ai-weapons-surveillance) — NPR
 - [Claude and the Maduro capture operation](https://www.firstpost.com/explainers/how-pentagon-used-anthropics-claude-ai-to-capture-nicolas-maduro-13979828.html) — Firstpost
+- [Statement on the comments from Secretary of War Pete Hegseth](https://www.anthropic.com/news/statement-comments-secretary-war) — Anthropic
+- [Pentagon says it is labeling Anthropic a supply chain risk "effective immediately"](https://www.defensenews.com/news/pentagon-congress/2026/03/06/pentagon-says-it-is-labeling-anthropic-a-supply-chain-risk-effective-immediately/) — Defense News/AP
+- [Our agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war/) — OpenAI
 
 **Lead topic:**
 - [Dario Amodei, _The Adolescence of Technology_](https://www.darioamodei.com/essay/the-adolescence-of-technology) — Full essay (January 2026)
