@@ -1,77 +1,11 @@
-<!doctype html>
-<html class="no-js" lang="en-us">
-  <head>
-    <meta charset="utf-8">
-    <title>Projects | AI and Humanity</title>
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <link rel="stylesheet" href="https://aihumanityclass.github.io/css/foundation.min.css">
-    <link rel="stylesheet" href="https://aihumanityclass.github.io/css/highlight.min.css">
-    <link rel="stylesheet" href="https://aihumanityclass.github.io/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://aihumanityclass.github.io/css/academicons.min.css">
-    <link rel="stylesheet" href="https://aihumanityclass.github.io/css/fonts.css">
-    <link rel="stylesheet" href="https://aihumanityclass.github.io/css/finite.css">
-    <link rel="shortcut icon" href="/images/humanitylogo.png">  
-    
-  </head>
-  <body>
-      
-    <header>
-      <nav class="nav-bar">
-	
-	  <div class="title-bar" data-responsive-toggle="site-menu" data-hide-for="medium">	      
-	    <button class="site-hamburger" type="button" data-toggle>
-	      <i class="fa fa-bars fa-lg" aria-hidden="true"></i>
-	    </button>
-	    <div class="title-bar-title site-title">
-	      <a href="https://aihumanityclass.github.io/">AI and Humanity</a>
-	    </div>
-	    <div class="title-bar-right pull-right">
-	      
++++
+date = "26 May 2026"
+draft = false
+title = "Projects"
+author = "David Evans"
++++
 
-
-	    </div>
-	  </div>
-	    
-	  
-	    <div class="top-bar" id="site-menu" >	      
-	      <div class="top-bar-title show-for-medium site-title">
-		<a href="https://aihumanityclass.github.io/">AI and Humanity</a>
-	      </div>
-	      <div class="top-bar-left">
-		<ul class="menu vertical medium-horizontal">
-		  
-		  
-		</ul>
-	      </div>
-	      <div class="top-bar-right show-for-medium">
-		
-
-
-	      </div>
-	    </div>
-	  
-	</nav>
-      
-    </header>
-    
-    <main>
-      
-<div class="row" style="padding-top: 16pt;">
-  <div class="column small-12 medium-10 medium-offset-1 end large-8 large-offset-0">
-    <article class="article" itemscope itemtype="http://schema.org/Article">
-      
-      <h1 itemprop="name">Projects</h1>
-      <div class="post-metadata">
-  <span class="post-date">
-    <time datetime="2026-05-26 00:00:00 &#43;0000 UTC" itemprop="datePublished">26 May 2026</time>
-  </span>
-  
-</div>
-
-      <div class="post-body" itemprop="articleBody">
-        <div class="row">
+<div class="row">
 <div class="column small-12 medium-6">
 <div style="background: #ffbf00; color: #1f2937; font-weight: 700; padding: 0.9rem 1rem; border-radius: 0.35rem; text-align: center;">Amber</div>
 <div style="text-align: center; padding: 0.75rem 0;">
@@ -88,12 +22,14 @@
 </div>
 </div>
 </div>
+
 <div class="row">
 <div class="column small-12 medium-6">
 <div style="background: #00ffff; color: #083344; font-weight: 700; padding: 0.9rem 1rem; border-radius: 0.35rem; text-align: center;">Cyan</div>
 <div style="text-align: center; padding: 0.75rem 0;">
 <a href="https://github.com/Ru1zhc3/AI-Humanity-Project"><img src="/images/cyan-project.png" width="100%" alt="Cyan project image" /></a><br>
 <a href="https://github.com/Ru1zhc3/AI-Humanity-Project"><em>Political Content Moderation Across Models and Languages</em></a>
+
 </div>
 </div>
 <div class="column small-12 medium-6">
@@ -104,7 +40,9 @@
 </div>
 </div>
 </div>
+
 <div class="row">
+
 <div class="column small-12 medium-6">
 <div style="background: #ff6b35; color: #fff7ed; font-weight: 700; padding: 0.9rem 1rem; border-radius: 0.35rem; text-align: center;">Ember</div>
 <div style="text-align: center; padding: 0.75rem 0;">
@@ -125,7 +63,9 @@ AI-Generated&nbsp;Websites
 </div>
 </div>
 </div>
+
 <div class="row">
+
 <div class="column small-12 medium-6">
 <div style="background: #9a2a2a; color: #ffe9e9; font-weight: 700; padding: 0.9rem 1rem; border-radius: 0.35rem; text-align: center;">Garnet</div>
 <div style="text-align: center; padding: 0.75rem 0;">
@@ -142,6 +82,7 @@ AI-Generated&nbsp;Websites
 </div>
 </div>
 </div>
+
 <div class="row">
 <div class="column small-12 medium-6">
 <div style="background: #4b0082; color: #f3e8ff; font-weight: 700; padding: 0.9rem 1rem; border-radius: 0.35rem; text-align: center;">Indigo</div>
@@ -161,75 +102,3 @@ AI-Generated&nbsp;Websites
 </div>
 </div>
 
-      </div>
-
-      <meta itemprop="wordCount" content="51">
-      <meta itemprop="datePublished" content="2026-05-26">
-      <meta itemprop="url" content="https://aihumanityclass.github.io/projects/">
-    </article>
-
-    <ul class="pagination" role="navigation" aria-label="Pagination">
-      
-      <li class="arrow" aria-disabled="true"><a href="https://aihumanityclass.github.io/schedule-for-final-presentations/">&laquo; <em>Previous<span class="show-for-sr"> page</span></em>: Schedule for Final Presentations</a></li>
-      
-      
-      <li class="arrow" aria-disabled="true"><a href="https://aihumanityclass.github.io/tablemap-3feb/"><em>Next<span class="show-for-sr"> page</span></em>: Tables for Feb 3-5&nbsp;&raquo;</a></li>
-      
-    </ul>
-
-  </div>
-</div>
-
-    </main>
-    
-    
-<footer class="whatisthis">
-  <hr />
-  <div class="row">
-    <div class="column small-12 medium-6">
-      <a href="//aihumanityclass.github.io"><b>cs 4501: humAnIty</b></a><br>
-      <a href="//www.cs.virginia.edu">University of Virginia</a>
-    </div>
-    <div class="column small-14 medium-5">
-      <font size="-1">
-      Subscribe to
-	the <a href="/index.xml"><i class="fa fa-rss-square"></i>&nbsp;RSS feed</a>.
-      <a id="searchsite">
-	<form method="get" action="https://duckduckgo.com/">
-	  <label for="search-field" class="show-for-sr">Search with DuckDuckGo</label>
-	  <input type="search" name="q" maxlength="255" placeholder="Search with DuckDuckGo" id="search-field">
-	  <input type="hidden" name="sites" value="https://aihumanityclass.github.io/"/>
-	  <input type="hidden" name="k7" value="#faf8f8"/>
-	  <input type="hidden" name="kj" value="#b33"/>
-	  <input type="hidden" name="ky" value="#fafafa"/>
-	  <input type="hidden" name="kx" value="b"/>
-	  <input type="hidden" name="ko" value="-1"/>
-	  <input type="hidden" name="k1" value="-1"/>
-	  <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
-	</form>
-      </a>
-</font>
-    </div>
-  </div>
-  </hr>
-</footer>
-
-
-    
-    <div class="endofpage">
-    </div>
-
-    <script src="/js/jquery.js"></script>
-    <script src="/js/what-input.js"></script>
-    <script src="/js/foundation.min.js"></script>
-    <script src="/js/finite.js"></script>
-
-    
-    <script src="/js/highlight.pack.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
-
-    
-    
-    
-  </body>
-</html>
