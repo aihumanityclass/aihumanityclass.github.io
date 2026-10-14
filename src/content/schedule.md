@@ -95,38 +95,6 @@ slug = "schedule"
   }
 </style>
 
-# Upcoming Schedule
-
-[See below for past classes.](#past-schedule)
-
-<table>
-  <thead>
-  <tr>
-  <th class="center-text">Date</th>
-  <th class="center-text">News Team</th>
-  <th class="center-text">Lead Team</th>
-  <th class="center-text">Blog Team</th>
-  </tr>
-  </thead>
-  <tbody>
-
-  <tr style="background-color: #effad1ff;">
-  <td>Tuesday 21 Apr</td>
-  <td colspan=3 class="center-text">Project Draft Presentations</td>
-  </tr>
-  <tr style="background-color: #faf3d1ff;">
-  <td>Thursday 23 Apr</td>
-  <td colspan=3 class="center-text">Project Draft Presentations</td>
-  </tr>
-  <tr style="background-color: #effad1ff;">
-  <td>Tuesday 28 Apr</td>
-  <td colspan=3 class="center-text">Project Draft Presentations</td>
-  </tr>
-  </tbody>
-</table>
-
-# Past Schedule
-
 <table>
   <thead>
   <tr>
@@ -302,6 +270,28 @@ slug = "schedule"
   <td colspan=2>"Ask Anything"</td>
   <td><a href="/blogs/class25">Class 25</a> (6)</td>
   </tr>
+
+# Upcoming Schedule
+
+[See below for past classes.](#past-schedule)
+
+<table>
+  <thead>
+  <tr>
+  <th class="center-text">Date</th>
+  <th class="center-text">News Team</th>
+  <th class="center-text">Lead Team</th>
+  <th class="center-text">Blog Team</th>
+  </tr>
+  </thead>
+  <tbody>
+
+  <tr style="background-color: #effad1ff;">
+  <td>21, 23 and 28 Apr</td>
+  <td colspan=3 class="center-text"><a href="https://aihumanityclass.github.io/projects/">Project Draft Presentations</a></td>
+  </tr>
+  </tbody>
+</table>
 
 
  </tbody>
